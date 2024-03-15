@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+}
+
+.down-footer .tag-title {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #151515;
+}
+
+.down-footer .spans {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.down-footer .spans span {
+  padding: 4px 10px;
+  background-color: #F5F5F5;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.down-footer h6 {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+}/*# sourceMappingURL=style.css.map */
