@@ -1,0 +1,38 @@
+.down-footer {
+    .tag-title {
+        font-family: sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 27px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #151515;
+    }
+
+    .spans {
+        display: flex;
+        gap: 16px;
+        flex-wrap: wrap;
+
+        span {
+            padding: 4px 10px;
+            background-color: #F5F5F5;
+            border-radius: 12px;
+
+            //styleName: S6/Default;
+            font-size: 12px;
+            font-weight: 600;
+            line-height: 18px;
+            letter-spacing: 0em;
+            text-align: left;
+        }
+    }
+
+    h6 {
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+    }
+}
