@@ -1,0 +1,29 @@
+/*# sourceMappingURL=style.css.map */
+a{
+    text-decoration: none;
+}
+.footers{
+    display: flex;
+    gap: 30px;
+}
+.fuuter{
+    flex-direction: column;
+    width: 384px;
+    padding-left:30px;
+}
+.fuuter a:hover{
+    color: #6A983C;
+    border-bottom: 2px solid rgb(196, 74, 94);
+}
+.fuuter a{
+    color: #6A983C;
+}
+.fuuter h1{
+    margin-bottom: 16px;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+}
+.fuuter li{
+    margin-bottom: 16px;
+}
